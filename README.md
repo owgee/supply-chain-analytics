@@ -1,4 +1,4 @@
-# Supply Chain Optimization - Owden Godson (Emory)
+# Supply Chain Optimization
 
 ## Introduction
 
