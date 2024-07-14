@@ -20,7 +20,7 @@ In the ever-evolving world of commerce, the efficiency of supply chain operation
 1. **Clone the Repository**
    - Clone this repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/yourusername/supply-chain-optimization.git
+     git clone https://github.com/owgee/supply-chain-optimization.git
      ```
 
 2. **Open the Notebooks**
